@@ -15,7 +15,7 @@
 | 产品          | 域名                                                         |
 | ------------- | :----------------------------------------------------------- |
 | Binance       | binance.com<br />binance.cloud                                                 |
-| OKEX          | okex.com                                                     |
+| OKEX          | okex.com<br />okx.com                                  |
 | Bybit          | bybit.com                                                     |
 | Huobi          | huobi.com                                                     |
 | DeBank        | debank.com                                                   |
