@@ -28,5 +28,6 @@
 | 区块链123     | qkl123.com                                                   |
 | TradingView  | tradingview.com                                                  |
 | 非小号        | feixiaohao.co<br />feixiaoquan.com<br />fxhapp.com                                                   |
+| KuCoin        | kucoin.com                                                 |
 ## 致谢
 [中国涉加密货币机构与项目陆续宣布关停与限制 —— 吴说](https://www.wu-talk.com/html/supervise/2021_2042.html)
